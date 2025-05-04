@@ -1,3 +1,4 @@
+//print from 1 to n
 #include<bits/stdc++.h>
 using namespace std;
 /*method-1 (first print then call the function then again call then print */
